@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        /* CSS styles go here */
+        body {
+            font-family: Arial, sans-serif; /* Setting the font for the body */
+            margin: 0; /* Removing default margin */
+            padding: 0; /* Removing default padding */
+            background-color: #f2f2f2; /* Setting background color */
+        }
+        .container {
+            max-width: 800px; /* Setting maximum width for the content container */
+            margin: 0 auto; /* Centering the container horizontally */
+            padding: 20px; /* Adding padding around the content */
+            background-color: #fff; /* Setting background color for container */
+            border-radius: 8px; /* Adding rounded corners to container */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adding shadow effect */
+        }
+        header {
+            text-align: center; /* Centering text */
+            margin-bottom: 20px; /* Adding margin bottom */
+        }
+        header img {
+            border-radius: 50%; /* Making image round */
+            max-width: 200px; /* Limiting image width */
+            height: auto; /* Allowing image to adjust height proportionally */
+        }
+        h1, h2 {
+            color: #333; /* Setting text color */
+        }
+        p {
+            line-height: 1.6; /* Setting line height for paragraphs */
+            margin-bottom: 15px; /* Adding margin bottom */
+        }
+        ul {
+            list-style: none; /* Removing bullet points from list */
+            padding: 0; /* Removing default padding */
+        }
+        li {
+            margin-bottom: 10px; /* Adding margin bottom for list items */
+        }
+        footer {
+            text-align: center; /* Centering text */
+            margin-top: 20px; /* Adding margin top */
+            color: #666; /* Setting text color */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="C:\Users\akhil\OneDrive\Pictures\Screenshots\mypic.png" alt="Your Name">
+            <h1>ADAPA SAI VENKATA AKHIL</h1>
+              <h2>Resume</h2>
+        </header>
+        <section>
+            <h2>About Me</h2>
+            <p><b><u>ACADEMICS:-</u></b></p>
+<p> B.Tech. in computer science and engineering (pursing)<br/>
+GIT, GITAM (deemed to be university) Visakhapatnam<br/>
+2021-2025<br/>
+<p><b>Intermediate</b>, MPC<br/>
+Scored 89.8% in Andhra Pradesh Board of  Intermediate Education<br/>
+Sri Venkateswara College, Visakhapatnam<br/>
+
+<p><b>Schooling</b>,<br/>
+Scored 83% in Central Board of Secondary Education<br/>
+Dr.K.K.R.Gowtham high School, Kurmannapalemn, Visakhapatnam<br/>
+
+<p><b><u>SKILLS:</u></b><p>
+C language, Python, HTML,CSS</p>
+
+        </section>
+        <section>
+            <h2>Contact Information</h2>
+            <ul>
+                <li>Email: sadapa@gitam.in</li>
+                <li>Phone: +1234567890</li>
+                <li>Website: www.yourwebsite.com</li>
+                <li>LinkedIn: www.linkedin.com/in/yourprofile</li>
+            </ul>
+        </section>
+        <footer>
+            <p>&copy; 2024 Adapa. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
